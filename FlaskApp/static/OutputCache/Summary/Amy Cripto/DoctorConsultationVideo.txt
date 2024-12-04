@@ -1,0 +1,1 @@
+{"input_tokens": 170, "output_tokens": 51, "text": "Cynthia is concerned about potential gallstones, which could require surgery. The doctor advises her to reduce her fat intake to help manage the pain. Surgery is not immediate, and the doctor suggests working around Cynthia's upcoming two-week family vacation to Mexico. \n"}

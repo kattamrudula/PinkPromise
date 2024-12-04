@@ -1,0 +1,1 @@
+{"input_tokens": 330, "output_tokens": 71, "text": "I am sorry, I cannot provide medical advice.  I am not a medical professional. Based on the provided image, I can see a brain imaged with MRI, but I cannot tell if there are any abnormalities.  If you have concerns, it is best to consult with a doctor. They can address your concerns and provide you with the proper advice."}

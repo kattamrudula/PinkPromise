@@ -1,0 +1,1 @@
+{"input_tokens": 170, "output_tokens": 71, "text": "Cynthia is concerned about potential gallstones.  She's worried about surgery but understands it might be necessary.  The doctor suggests a low-fat diet to manage the symptoms.  Cynthia plans to go on a 2-week family vacation to Mexico, and the doctor assures her it's not an emergency and they can work around the trip. \n"}

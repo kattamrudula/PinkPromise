@@ -1,0 +1,16 @@
+```json
+{
+  "hospital_name": "CharmClinic",
+  "patient_name": "Amy Cripto",
+  "doctor_name": null,
+  "location": null,
+  "medication_names": [
+    "desvenlafaxine",
+    "ibuprofen"
+  ],
+  "dates": [
+    "4 weeks",
+    "one week"
+  ]
+}
+``` 

@@ -1,0 +1,32 @@
+```json
+{
+  "EngMatWords": [
+    "presented to",
+    "regarding",
+    "reported",
+    "past medical history includes",
+    "mammogram",
+    "no abnormalities",
+    "no significant family history",
+    "prescribed",
+    "scheduled a follow-up appointment",
+    "advised",
+    "lab test results review",
+    "details a patient's",
+    "underwent",
+    "administered",
+    "neoadjuvant chemotherapy",
+    "hypoechoic",
+    "benign or malignant conditions",
+    "additional imaging",
+    "definitive diagnosis",
+    "clinical history",
+    "physical breast exam",
+    "additional ultrasound views",
+    "possibly a biopsy",
+    "insufficient",
+    "radiologist",
+    "anti-radial plane"
+  ]
+}
+```

@@ -1,0 +1,15 @@
+```json
+{
+  "SentimentWords": [
+    "concerned",
+    "potential gallstones",
+    "surgery",
+    "reduce fat intake",
+    "manage the pain",
+    "not immediate",
+    "work around",
+    "upcoming two-week family vacation",
+    "Mexico"
+  ]
+}
+``` 

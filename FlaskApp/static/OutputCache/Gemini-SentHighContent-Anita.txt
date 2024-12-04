@@ -1,0 +1,5 @@
+```json
+{
+  "SentimentWords": ["new patient visit", "medication management", "breast lump", "swollen lymph nodes", "mammogram", "negative (BI-RADS Category 1)", "no significant family history of cancer", "prescribed desvenlafaxine and ibuprofen", "follow-up appointment", "symptoms worsen or fail to improve", "lab test results review", "hypoechoic (darker) lesion", "benign or malignant conditions", "insufficient", "additional imaging", "definitive diagnosis"]
+}
+```

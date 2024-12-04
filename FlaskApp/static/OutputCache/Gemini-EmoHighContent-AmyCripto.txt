@@ -1,0 +1,24 @@
+```json
+{
+  "EmotionWords": [
+    "problematic symptoms",
+    "associated symptoms",
+    "duration",
+    "progression",
+    "precipitating factors",
+    "alleviating factors",
+    "Depression",
+    "mood disorders",
+    "psychotic disorders",
+    "substance-induced disorders",
+    "anxiety",
+    "trauma disorders",
+    "constricted",
+    "dysphoric",
+    "anxious",
+    "complex case",
+    "ongoing medication management",
+    "monitoring"
+  ]
+}
+``` 

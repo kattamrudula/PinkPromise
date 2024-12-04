@@ -1,0 +1,7 @@
+```json
+{
+  "Emotion": "Sadness"
+}
+```
+
+The report details a young patient with a history of depression, presenting with problematic symptoms and undergoing psychiatric evaluation. The patient exhibits a dysphoric and anxious mood, suggesting sadness as the primary emotion. 

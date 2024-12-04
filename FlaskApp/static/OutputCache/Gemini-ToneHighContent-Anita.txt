@@ -1,0 +1,5 @@
+```json
+{
+  "ToneWords": ["unknown gender", "new patient visit", "medication management", "breast lump or thickening", "swollen lymph nodes", "past medical history", "mammogram", "no abnormalities", "negative (BI-RADS Category 1)", "no significant family history of cancer", "prescribed desvenlafaxine and ibuprofen", "follow-up appointment", "symptoms worsen or fail to improve", "lab test results review", "hypoechoic (darker) lesion", "benign or malignant conditions", "more information is needed", "insufficient", "cannot provide a specific diagnosis", "cannot give a specific diagnosis", "definitive diagnosis", "further information and possibly additional imaging would be needed"]
+}
+```

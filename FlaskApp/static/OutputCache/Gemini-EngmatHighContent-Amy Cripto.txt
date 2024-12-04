@@ -1,0 +1,42 @@
+```json
+{
+  "EngMatWords": [
+    "medication management",
+    "psychiatric history",
+    "psychiatric review of systems",
+    "mental status exam",
+    "well-developed",
+    "well-nourished",
+    "dressed appropriately",
+    "normal gait",
+    "normal speech",
+    "psychomotor activity",
+    "constricted affect",
+    "dysphoric affect",
+    "expressed anxiety",
+    "clear thought process",
+    "logical thought process",
+    "linear thought process",
+    "post-traumatic stress disorder",
+    "major depressive disorder",
+    "single episode",
+    "mild depression",
+    "treatment options",
+    "risks and benefits",
+    "alternatives",
+    "desvenlafaxine",
+    "ibuprofen",
+    "follow-up appointment",
+    "contact the office",
+    "potential gallstones",
+    "reduce fat intake",
+    "manage pain",
+    "upcoming two-week family vacation",
+    "work around",
+    "low-fat diet",
+    "medication management",
+    "surgery may be necessary",
+    "not an emergency"
+  ]
+}
+``` 

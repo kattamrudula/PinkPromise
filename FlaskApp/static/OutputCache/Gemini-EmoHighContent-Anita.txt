@@ -1,0 +1,5 @@
+```json
+{
+  "EmotionWords": ["new patient visit", "breast lump or thickening", "swollen lymph nodes", "mammogram", "negative (BI-RADS Category 1)", "no significant family history of cancer", "symptoms worsen or fail to improve", "hypoechoic (darker) lesion", "benign or malignant conditions", "insufficient", "definitive diagnosis", "further information", "additional imaging"]
+}
+```

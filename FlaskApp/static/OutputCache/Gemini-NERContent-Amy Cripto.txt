@@ -1,0 +1,44 @@
+```json
+{
+  "patient_name": "Amy Cripto",
+  "patient_age": "13",
+  "hospital_name": null,
+  "doctor_name": null,
+  "location": null,
+  "medication_names": [
+    "desvenlafaxine",
+    "ibuprofen"
+  ],
+  "dates": [
+    "4 weeks" 
+  ],
+  "diagnosis": [
+    "other obesity",
+    "post-traumatic stress disorder, unspecified",
+    "major depressive disorder, single episode, mild"
+  ],
+  "symptoms": [
+    "depression",
+    "anxiety"
+  ]
+}
+```
+```json
+{
+  "patient_name": "Cynthia",
+  "patient_age": null,
+  "hospital_name": null,
+  "doctor_name": null,
+  "location": null,
+  "medication_names": null,
+  "dates": [
+    "two-week family vacation"
+  ],
+  "diagnosis": [
+    "gallstones"
+  ],
+  "symptoms": [
+    "pain"
+  ]
+}
+```

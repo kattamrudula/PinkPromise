@@ -1,0 +1,1 @@
+{"input_tokens": 140, "output_tokens": 58, "text": "The report describes a diagnosis of breast cancer that has spread to the lymph nodes under the arm (axilla). The patient has had a biopsy confirming the presence of cancer cells in the lymph nodes. The recommended treatment option is chemotherapy to shrink the cancer in both the breast and the lymph nodes. \n"}

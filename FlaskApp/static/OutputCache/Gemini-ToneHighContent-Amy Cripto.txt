@@ -1,0 +1,18 @@
+```json
+{
+  "ToneWords": [
+    "concerned",
+    "potential gallstones",
+    "surgery",
+    "manage the pain",
+    "not immediate",
+    "work around",
+    "upcoming two-week family vacation",
+    "Mexico",
+    "low-fat diet",
+    "medication",
+    "eventually be necessary",
+    "not an emergency"
+  ]
+}
+``` 

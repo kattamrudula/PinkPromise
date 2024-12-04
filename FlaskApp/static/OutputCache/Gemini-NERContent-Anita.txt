@@ -1,0 +1,15 @@
+```json
+{
+  "patient_name": "Anita",
+  "dob": "01/01/2000",
+  "doctor_name": "Dr. Hansa Ara",
+  "visit_date": "July 31, 2024",
+  "medications": ["acetaminophen", "aspirin", "ibuprofen", "propranolol", "doxorubicin", "desvenlafaxine"],
+  "supplements": ["Vitamin C", "Aminolase TPA", "blood pressure supplement", "Vitamin", "Calcium"],
+  "medical_history": ["swelling/lump in the breast or underarm"],
+  "imaging": ["mammogram", "breast ultrasound"],
+  "procedures": ["mastectomy", "axillary lymph node dissection", "neoadjuvant chemotherapy"],
+  "lab_test_results_review_date": "One week after July 31, 2024",
+  "follow_up_appointment_date": "Four weeks after July 31, 2024" 
+}
+```

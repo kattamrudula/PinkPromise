@@ -1,0 +1,1 @@
+{"input_tokens": 85, "output_tokens": 63, "text": "The report details a patient's breast cancer diagnosis and subsequent treatment.  The patient underwent a mastectomy (removal of the right breast) and axillary lymph node dissection (removal of lymph nodes under the arm).  Neoadjuvant chemotherapy (treatment given before surgery to shrink the tumor) was also administered.\n"}

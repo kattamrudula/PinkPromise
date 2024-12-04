@@ -1,0 +1,25 @@
+{
+    "fileName": "Anita/Anita_Diagnosis_Report.pdf",
+    "sections": [
+        "DateOfBirth",
+        "Record",
+        "FollowUp",
+        "PastMedicalHistory",
+        "Allergies",
+        "Patient",
+        "FamilySocialHistory",
+        "Diagnoses",
+        "HistoryOfPresentIllness",
+        "ActiveMedications",
+        "ActiveSupplements",
+        "MedicalHistory",
+        "Provider",
+        "VisitType",
+        "PatientHistory",
+        "Vitals",
+        "ReviewOfSystems",
+        "Prescription",
+        "AgeGender",
+        "DateOfVisit"
+    ]
+}
